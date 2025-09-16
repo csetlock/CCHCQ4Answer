@@ -7,7 +7,7 @@ sudo apt update
 sudo apt install -y python3 python3-venv python3-pip git
 
 2. Clone this repository
-git clone [https://github.com/csetlock/Cobbs-Creek-Healthcare-Q4.git](https://github.com/csetlock/CCHCQ4Answer)
+git clone [[https://github.com/csetlock/Cobbs-Creek-Healthcare-Q4.git](https://github.com/csetlock/CCHCQ4Answer)](https://github.com/csetlock/CCHCQ4Answer.git)
 cd CCHC-Q4-Answer
 
 3. Create Virtual Enviornment (Run These Commands)
